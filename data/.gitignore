@@ -1,0 +1,12 @@
+inputData.csv
+interactionLagData.csv
+eventShareData.csv
+freqprofiles.csv
+freqprofiles_build.csv
+
+.irrThreshData.gen
+ffThresholdProfiles_lagmarker.csv
+freqShareStatsThreshold_lagmarker.csv
+govThresholdProfiles_lagmarker.csv
+optimalThresholdProfiles_lagmarker.csv
+
